@@ -6,4 +6,4 @@ Laravel v12
 Inertia v2
 React v19
 
-# Basci CRUD operation for Users, Products are included into this demo project.
+# Basic CRUD operation for Users, Products are included into this demo project.
